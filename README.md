@@ -1,5 +1,7 @@
 # Chemical_Space_Analysis
 
+#### Purpose
+
 - Chemical space comparison of two different datasets
 - Visualization according to physicochemical properties
 - Scaffold Analysis
