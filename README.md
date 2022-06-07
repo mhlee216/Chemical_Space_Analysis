@@ -11,11 +11,11 @@
 
 #### Case Study
 
-- Case 1 (Chemical_Space_Analysis_Aspirin_Imatinib.ipynb)
+- Case 1 (Case_1_Aspirin_Imatinib.ipynb)
 
 : Chemical space comparison of different data sets: Aspirin-Like Molecules & Imatinib-Like Molecules
 
-- Case 2 (Chemical_Space_Analysis_Aspirin_Ibuprofen.ipynb)
+- Case 2 (Case_2_Aspirin_Ibuprofen.ipynb)
 
 : Chemical space comparison of similar data sets: Aspirin-Like Molecules & Ibuprofen-Like Molecules
 
