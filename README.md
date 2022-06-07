@@ -23,7 +23,7 @@
 
 #### Discussion
 
-1. In Case 1, the two datasets can be clearly distinguished from the results using MACCS Fingerprint and PCA.
+1. In Case 1, the two datasets can be clearly distinguished from the results using MACCS fingerprint and PCA.
 2. In Case 1, it is difficult to verify the cluster relationship between the scaffolds and the original compounds.
 3. In Case 2, scaffolds in two similar data sets have junctions.
 4. In Case 2, although they are different data sets, they share a common scaffold, and sampling it will allow us to penetrate between the two chemical spaces.
